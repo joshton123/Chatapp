@@ -32,7 +32,7 @@ function ChatContainer() {
                         ${
                           message.senderId === currentChatUser.id
                             ? "bg-incoming-background"
-                            : "bg-outgoing-background"
+                            : "bg-icon-ack"
                         }`}
                       >
                         <span className="break-all ">{message.message}</span>

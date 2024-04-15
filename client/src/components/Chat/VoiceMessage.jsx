@@ -87,7 +87,7 @@ function VoiceMessage({ message }) {
       className={`flex items-center gap-5 text-white px-4 pr-2 py-4 text-sm rounded-md ${
         message.senderId === currentChatUser.id
           ? "bg-incoming-background"
-          : "bg-outgoing-background"
+          : "bg-icon-ack"
       }`}
     >
       <div>

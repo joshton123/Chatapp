@@ -13,7 +13,7 @@ function ImageMessage({ message }) {
       className={`p-1 rounded-lg ${
         message.senderId === currentChatUser.id
           ? "bg-incoming-background"
-          : "bg-outgoing-background"
+          : "bg-icon-ack"
       }`}
     >
       <div className="relative">
