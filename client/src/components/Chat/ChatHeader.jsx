@@ -57,19 +57,19 @@ function ChatHeader() {
         <div className="flex flex-col">
           <span className="text-primary-strong">{currentChatUser?.name}</span>
           <span className="text-secondary text-sm">
-            {onlineUsers.includes(currentChatUser.id) ? "online" : "offline"}
+            {onlineUsers.includes(currentChatUser.id) ? "Available" : "Not Available"}
           </span>
         </div>
       </div>
       <div className="flex gap-6">
-        <MdCall
+        {/* <MdCall
           className="text-panel-header-icon cursor-pointer tet-xl"
           onClick={handleVoiceCall}
         />
         <IoVideocam
           className="text-panel-header-icon cursor-pointer text-xl"
           onClick={handleVideoCall}
-        />
+        /> */}
         <BiSearchAlt2
           className="text-panel-header-icon cursor-pointer text-xl"
           onClick={() => dispatch({ type: reducerCases.SET_MESSAGE_SEARCH })}

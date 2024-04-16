@@ -16,7 +16,7 @@ function SearchBar() {
         <div>
           <input
             type="text"
-            placeholder="Search or start a new chat"
+            placeholder="Search Contact"
             className="bg-transparent text-sm focus:outline-none text-white w-full"
             value={contactSearch}
             onChange={(e) =>
@@ -26,7 +26,7 @@ function SearchBar() {
         </div>
       </div>
       <div className="pr-5 pl-3 ">
-        <BsFilter className="text-panel-header-icon cursor-pointertext-l " />
+        {/* <BsFilter className="text-panel-header-icon cursor-pointertext-l " /> */}
       </div>
     </div>
   );
