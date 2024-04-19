@@ -89,7 +89,7 @@ function ChatListItem({ data, isContactPage = false }) {
               )}
             </span>
             {/* {data.totalUnreadMessages > 0 && (
-              <span className="bg-icon-green px-[5px] rounded-full text-sm">
+              <span className="bg- px-[5px] rounded-full text-sm">
                 {data.totalUnreadMessages}
               </span>
             )} */}
