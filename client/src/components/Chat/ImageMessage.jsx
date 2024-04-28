@@ -32,6 +32,7 @@ function ImageMessage({ message }) {
             {message.senderId === userInfo.id && (
               <MessageStatus messageStatus={message.messageStatus} />
             )}
+        
           </span>
         </div>
       </div>
