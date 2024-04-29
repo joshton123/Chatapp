@@ -1,4 +1,4 @@
-export const HOST = "https://chatapp-h1nc.onrender.com";
+export const HOST = "https://chatapp-bgo3.onrender.com";
 
 const AUTH_ROUTE = `${HOST}/api/auth`;
 const MESSAGES_ROUTES = `${HOST}/api/messages`;
