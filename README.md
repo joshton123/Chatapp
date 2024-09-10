@@ -1,6 +1,6 @@
 # NextChat
 
-Welcome to **NextChat**, a comprehensive WhatsApp clone designed to provide a rich and authentic messaging experience. With a variety of advanced features, NextChat ensures seamless communication and enhanced interaction.
+Welcome to **NextChat**, a comprehensive ChatApp designed to provide a rich and authentic messaging experience. With a variety of advanced features, NextChat ensures seamless communication and enhanced interaction.
 
 ## Features
 
