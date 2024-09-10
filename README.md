@@ -18,14 +18,6 @@ Welcome to **NextChat**, a comprehensive WhatsApp clone designed to provide a ri
   - **Description**: Real-time communication is powered by Socket.io, enabling instant message delivery and reception.
   - **Benefits**: Real-time updates, reduced latency, and improved user engagement through instant messaging.
 
-- **Voice Call and Video Call Feature**:
-  - **Description**: Make and receive voice and video calls directly within the app, with high-quality audio and video.
-  - **Benefits**: Integrated communication tools, enhanced user experience with in-app calling, and no need for external apps.
-
-- **Voice Notes with Live Audio Waveforms**:
-  - **Description**: Record and send voice notes, accompanied by live audio waveforms that display the sound's intensity and frequency in real-time.
-  - **Benefits**: Enhanced interaction with voice messages, visual feedback of audio, and a richer communication experience.
-
 - **Support for Emoji**:
   - **Description**: Express yourself using a diverse range of emojis, making conversations more vibrant and emotional.
   - **Benefits**: Adds personality and emotion to messages, making communication more engaging and fun.
